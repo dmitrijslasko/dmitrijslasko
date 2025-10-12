@@ -20,7 +20,7 @@
   </a>
 </p>
 
-<p align="left">
+<p align="center">
   <sub>
     <b><a href="https://github.com/dmitrijslasko/42_cub3D_advanced">Sushi Ninja</a></b> – A raycaster game inspired by Wolfenstein 3D, written in C  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
