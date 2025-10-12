@@ -11,35 +11,32 @@
 
 ### ⭐ My projects
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/dmitrijslasko/42_cub3D_advanced">
+    <img src="https://img.youtube.com/vi/zGh0d-RLmI8/maxresdefault.jpg" alt="Sushi Ninja – A raycaster game inspired by Wolfenstein 3D" width="45%">
+  </a>
+  <a href="https://github.com/dmitrijslasko/42_fdf">
+    <img src="https://raw.githubusercontent.com/dmitrijslasko/42_fdf/192dcd393a4a817a25a64ad245a87558c0b146fc/_img/fdf-github-preview.png" alt="FDF – 3D wireframe models visualizator" width="45%">
+  </a>
+</p>
 
-  <div style="display:inline-block; text-align:center; width:45%; vertical-align:top;">
-    <a href="https://github.com/dmitrijslasko/42_cub3D_advanced">
-      <img src="https://img.youtube.com/vi/zGh0d-RLmI8/maxresdefault.jpg" alt="Sushi Ninja – A raycaster game inspired by Wolfenstein 3D" width="100%">
-    </a>
-    <br>
+<p align="center">
+  <span style="display:inline-block; width:45%;">
     <sub>
       <b><a href="https://github.com/dmitrijslasko/42_cub3D_advanced">Sushi Ninja</a></b><br>
       A raycaster game inspired by Wolfenstein 3D<br>
       <i>Written in C</i>
     </sub>
-  </div>
-
-  <div style="display:inline-block; text-align:center; width:45%; vertical-align:top;">
-    <a href="https://github.com/dmitrijslasko/42_fdf">
-      <img src="https://raw.githubusercontent.com/dmitrijslasko/42_fdf/192dcd393a4a817a25a64ad245a87558c0b146fc/_img/fdf-github-preview.png" alt="FDF – 3D wireframe models visualizator" width="100%">
-    </a>
-    <br>
+  </span>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <span style="display:inline-block; width:45%;">
     <sub>
       <b><a href="https://github.com/dmitrijslasko/42_fdf">FDF</a></b><br>
       3D wireframe visualizer for 2D coordinate data<br>
       <i>Written in C</i>
     </sub>
-  </div>
-
-</div>
-
-
+  </span>
+</p>
 
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
