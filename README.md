@@ -12,10 +12,10 @@
 
 <p align="center">
   <a href="https://github.com/dmitrijslasko/42_cub3D_advanced">
-    <img src="https://img.youtube.com/vi/zGh0d-RLmI8/maxresdefault.jpg" alt="Sushi Ninja – A raycaster game inspired by Wolfenstein 3D" style="border-radius: 10px; margin-right: 10px; width="45%"">
+    <img src="https://img.youtube.com/vi/zGh0d-RLmI8/maxresdefault.jpg" alt="Sushi Ninja – A raycaster game inspired by Wolfenstein 3D" width="45%" style="border-radius: 10px; margin-right: 10px;">
   </a>
   <a href="https://github.com/dmitrijslasko/42_fdf">
-    <img src="https://github.com/dmitrijslasko/42_fdf/raw/main/_img/fdf-header-image-min.png" alt="FDF – 3D wireframe models visualizator" style="border-radius: 10px; width="45%"">
+    <img src="https://github.com/dmitrijslasko/42_fdf/raw/main/_img/fdf-header-image-min.png" alt="FDF – 3D wireframe models visualizator" width="45%" style="border-radius: 10px;">
   </a>
 </p>
 
