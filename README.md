@@ -11,7 +11,7 @@
 
 ### ⭐ My projects
 
-<table align="center">
+<table align="center" border="0">
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/dmitrijslasko/42_cub3D_advanced">
