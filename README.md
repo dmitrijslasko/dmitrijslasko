@@ -7,13 +7,14 @@
 - ⭐ Check out these projects of mine I'm proud of:
 - [Sushi Ninja – A raycaster game inspired by Wolfenstein 3D, written in C](https://github.com/dmitrijslasko/42_cub3D_advanced)
 - [FDF – 3D wireframe models visualizator a set of 2D coordinates, written in C](https://github.com/dmitrijslasko/42_fdf)
+https://img.youtube.com/vi/zGh0d-RLmI8/maxresdefault.jpg
 -->
 
 ### ⭐ My projects
 
 <p align="center">
   <a href="https://github.com/dmitrijslasko/42_cub3D_advanced">
-    <img src="https://img.youtube.com/vi/zGh0d-RLmI8/maxresdefault.jpg" alt="Sushi Ninja – A raycaster game inspired by Wolfenstein 3D" width="45%">
+    <img src="https://raw.githubusercontent.com/dmitrijslasko/42_cub3D_advanced/b88a5839d5d6de2975abdb8bf7c9edc259742182/assets/sushi-ninja-3d.gif" alt="Sushi Ninja – A raycaster game inspired by Wolfenstein 3D" width="45%">
   </a>
   <a href="https://github.com/dmitrijslasko/42_fdf">
     <img src="https://raw.githubusercontent.com/dmitrijslasko/42_fdf/192dcd393a4a817a25a64ad245a87558c0b146fc/_img/fdf-github-preview.png" alt="FDF – 3D wireframe models visualizator" width="45%">
