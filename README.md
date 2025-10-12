@@ -21,21 +21,11 @@
 </p>
 
 <p align="center">
-  <span style="display:inline-block; width:45%;">
-    <sub>
-      <b><a href="https://github.com/dmitrijslasko/42_cub3D_advanced">Sushi Ninja</a></b><br>
-      A raycaster game inspired by Wolfenstein 3D<br>
-      <i>Written in C</i>
-    </sub>
-  </span>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <span style="display:inline-block; width:45%;">
-    <sub>
-      <b><a href="https://github.com/dmitrijslasko/42_fdf">FDF</a></b><br>
-      3D wireframe visualizer for 2D coordinate data<br>
-      <i>Written in C</i>
-    </sub>
-  </span>
+  <sub>
+    <b><a href="https://github.com/dmitrijslasko/42_cub3D_advanced">Sushi Ninja</a></b> – A raycaster game inspired by Wolfenstein 3D, written in C  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <b><a href="https://github.com/dmitrijslasko/42_fdf">FDF</a></b> – 3D wireframe visualizer for 2D coordinate data, written in C
+  </sub>
 </p>
 
 <!-- - 👯 I’m looking to collaborate on ... -->
