@@ -3,12 +3,12 @@
 - 🌱 I’m currently learning full stack software development at **42 Berlin**
 - 💬 I love projects that involve **automation**
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/dmitrijslasko)
+<!--
 - ⭐ Check out these projects of mine I'm proud of:
 - [Sushi Ninja – A raycaster game inspired by Wolfenstein 3D, written in C](https://github.com/dmitrijslasko/42_cub3D_advanced)
 - [FDF – 3D wireframe models visualizator a set of 2D coordinates, written in C](https://github.com/dmitrijslasko/42_fdf)
-
-- ### ⭐ Projects I'm Proud Of
-
+-->
+### ⭐ My work
 <p align="center">
   <a href="https://github.com/dmitrijslasko/42_cub3D_advanced">
     <img src="https://github.com/dmitrijslasko/42_fdf/raw/main/_img/fdf-header-image-min.png" alt="Sushi Ninja – A raycaster game inspired by Wolfenstein 3D" width="45%" style="border-radius: 10px; margin-right: 10px;">
