@@ -3,17 +3,11 @@
 - 🌱 I’m currently learning full stack software development at **42 Berlin**
 - 💬 I love projects that involve **automation**
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/dmitrijslasko)
-  
-### ⭐ Projects I'm Proud Of
-
-<p align="center">
-  <a href="https://github.com/dmitrijslasko/42_cub3D_advanced">
-    <img src="[https://github.com/dmitrijslasko/42_cub3D_advanced/raw/main/preview.gif](https://camo.githubusercontent.com/ed9ebbda968e155f52c840f8547675d63f1c4df4d547f56370431f96b42c5cc6/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f7a476830642d524c6d49382f6d617872657364656661756c742e6a7067)" alt="Sushi Ninja – A raycaster game inspired by Wolfenstein 3D" width="45%" style="border-radius: 10px; margin-right: 10px;">
-  </a>
-  <a href="https://github.com/dmitrijslasko/42_fdf">
-    <img src="https://github.com/dmitrijslasko/42_fdf/raw/main/preview.gif" alt="FDF – 3D wireframe models visualizator" width="45%" style="border-radius: 10px;">
-  </a>
-</p>
+- ⭐ Check out these projects of mine I'm proud of:
+- [Sushi Ninja – A raycaster game inspired by Wolfenstein 3D, written in C](https://github.com/dmitrijslasko/42_cub3D_advanced)
+- [FDF – 3D wireframe models visualizator a set of 2D coordinates, written in C](https://github.com/dmitrijslasko/42_fdf)
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🤔 I’m looking for help with ... -->
 
 ---
 
