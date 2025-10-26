@@ -20,7 +20,32 @@ https://img.youtube.com/vi/zGh0d-RLmI8/maxresdefault.jpg
       <img src="https://raw.githubusercontent.com/dmitrijslasko/42_cub3D_advanced/b88a5839d5d6de2975abdb8bf7c9edc259742182/assets/sushi-ninja-3d.gif" alt="Sushi Ninja – A raycaster game inspired by Wolfenstein 3D" width="100%">
     </a>
     <p align="center" style="font-size: 16px; margin-top: 8px;">
-      <b><a href="https://github.com/dmitrijslasko/42_cub3D_advanced">Sushi Ninja</a></b><br>
+      <b><a href="https://github.com/dmitrijslasko/42_cub3D_advanced">### ⭐ My projects
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
+  <div style="flex: 1 1 300px; max-width: 450px;">
+    <a href="https://github.com/dmitrijslasko/42_cub3D_advanced">
+      <img src="https://raw.githubusercontent.com/dmitrijslasko/42_cub3D_advanced/b88a5839d5d6de2975abdb8bf7c9edc259742182/assets/sushi-ninja-3d.gif" alt="Sushi Ninja – A raycaster game inspired by Wolfenstein 3D" width="100%">
+    </a>
+    <p align="center" style="font-size: 16px; margin-top: 8px;">
+      <b><a href="https://github.com/dmitrijslasko/42_cub3D_advanced">🍣 Sushi Ninja</a></b><br>
+      A raycaster game and engine inspired by Wolfenstein 3D, written in C
+    </p>
+  </div>
+
+  <div style="flex: 1 1 300px; max-width: 450px;">
+    <a href="https://github.com/dmitrijslasko/42_fdf">
+      <img src="https://github.com/dmitrijslasko/42_fdf/blob/fd322b00ea8791a5b8635644035ba1980ca58579/assets/fdf3.gif" alt="FDF – 3D wireframe models visualizator" width="100%">
+    </a>
+    <p align="center" style="font-size: 16px; margin-top: 8px;">
+      <b><a href="https://github.com/dmitrijslasko/42_fdf">🌐 FDF</a></b><br>
+      3D wireframe visualizer for 2D coordinate data, written in C
+    </p>
+  </div>
+
+</div>
+Sushi Ninja</a></b><br>
       A raycaster game inspired by Wolfenstein 3D, written in C
     </p>
   </div>
