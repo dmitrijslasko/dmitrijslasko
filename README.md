@@ -3,7 +3,7 @@
 - 👋 I’m Dima — after years of building and scaling e-commerce products, I’m now shifting my focus to software engineering.
 - 🌱 Currently studying full-stack development at 42 Berlin
 - 💬 I love exploring how design, logic, and systems come together in code
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/dmitrijslasko)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/dmitrijslasko) [Instagram](https://www.instagram.com/dimilasko)
 <!--
 - ⭐ Check out these projects of mine I'm proud of:
 - [Sushi Ninja – A raycaster game inspired by Wolfenstein 3D, written in C](https://github.com/dmitrijslasko/42_cub3D_advanced)
