@@ -37,7 +37,7 @@ https://img.youtube.com/vi/zGh0d-RLmI8/maxresdefault.jpg
   
   <div style="flex: 1 1 300px; max-width: 450px;">
     <a href="https://github.com/dmitrijslasko/42_philosophers">
-      <img src="https://github.com/dmitrijslasko/42_philosophers/blob/b89af2f9492bb242ea1d6cdbdb1c9fa2829fcb25/assets/github-philosophers-2.gif" alt="Philosophers - multithreading project" width="100%">
+      <img src="https://github.com/dmitrijslasko/42_philosophers/blob/4626272959010af69ddddc1df32985615a148408/assets/github-philosophers-3.gif" alt="Philosophers - multithreading project" width="100%">
     </a>
     <p align="center" style="font-size: 16px; margin-top: 8px;">
       <b><a href="https://github.com/dmitrijslasko/42_philosophers">🍽️ Philosophers</a></b><br>
