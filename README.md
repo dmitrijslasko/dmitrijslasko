@@ -34,8 +34,8 @@ https://img.youtube.com/vi/zGh0d-RLmI8/maxresdefault.jpg
       3D wireframe visualizer for 2D coordinate data, written in C.
     </p>
   </div>
-
-    <div style="flex: 1 1 300px; max-width: 450px;">
+  
+  <div style="flex: 1 1 300px; max-width: 450px;">
     <a href="https://github.com/dmitrijslasko/42_philosophers">
       <img src="https://github.com/dmitrijslasko/42_philosophers/blob/522cd1a5dd121d4b2d02c658787bf44aaab349a4/assets/github-philosophers.gif" alt="Philosophers - multithreading project" width="100%">
     </a>
