@@ -21,7 +21,7 @@ https://img.youtube.com/vi/zGh0d-RLmI8/maxresdefault.jpg
     </a>
     <p align="center" style="font-size: 16px; margin-top: 8px;">
       <b><a href="https://github.com/dmitrijslasko/42_cub3D_advanced">🍣 Sushi Ninja</a></b><br>
-      A raycaster game and engine inspired by Wolfenstein 3D, written in C
+      A raycaster game and engine inspired by Wolfenstein 3D, written in C.
     </p>
   </div>
 
@@ -31,7 +31,17 @@ https://img.youtube.com/vi/zGh0d-RLmI8/maxresdefault.jpg
     </a>
     <p align="center" style="font-size: 16px; margin-top: 8px;">
       <b><a href="https://github.com/dmitrijslasko/42_fdf">🌐 FDF</a></b><br>
-      3D wireframe visualizer for 2D coordinate data, written in C
+      3D wireframe visualizer for 2D coordinate data, written in C.
+    </p>
+  </div>
+
+    <div style="flex: 1 1 300px; max-width: 450px;">
+    <a href="https://github.com/dmitrijslasko/42_philosophers">
+      <img src="https://github.com/dmitrijslasko/42_philosophers/blob/522cd1a5dd121d4b2d02c658787bf44aaab349a4/assets/github-philosophers.gif" alt="Philosophers - multithreading project" width="100%">
+    </a>
+    <p align="center" style="font-size: 16px; margin-top: 8px;">
+      <b><a href="https://github.com/dmitrijslasko/42_philosophers">🍽️ Philosophers</a></b><br>
+      A 42 project written in C that explores multithreading and synchronization using mutexes.
     </p>
   </div>
 
