@@ -11,7 +11,7 @@
 https://img.youtube.com/vi/zGh0d-RLmI8/maxresdefault.jpg
 -->
 
-### ⭐ My projects
+### ⭐ Featured projects
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
