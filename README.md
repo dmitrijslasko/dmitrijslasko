@@ -20,8 +20,8 @@ https://img.youtube.com/vi/zGh0d-RLmI8/maxresdefault.jpg
       <img src="https://raw.githubusercontent.com/dmitrijslasko/42_cub3D_advanced/b88a5839d5d6de2975abdb8bf7c9edc259742182/assets/sushi-ninja-3d.gif" alt="Sushi Ninja – A raycaster game inspired by Wolfenstein 3D" width="100%">
     </a>
     <p align="center" style="font-size: 16px; margin-top: 8px;">
-      <b><a href="https://github.com/dmitrijslasko/42_cub3D_advanced">🍣 Sushi Ninja</a></b><br>
-      A raycaster game and engine inspired by Wolfenstein 3D, written in C.
+      <b><a href="https://github.com/dmitrijslasko/42_cub3D_advanced">🍣 Sushi Ninja / cub3D </a></b><br>
+      A raycaster game engine inspired by Wolfenstein 3D, written in C.
     </p>
   </div>
 
