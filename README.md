@@ -45,6 +45,14 @@ https://img.youtube.com/vi/zGh0d-RLmI8/maxresdefault.jpg
     </p>
   </div>
 
+  <div style="flex: 1 1 300px; max-width: 450px;">
+    <p align="center" style="font-size: 16px; margin-top: 8px;">
+      <b><a href="https://github.com/dmitrijslasko/42_philosophers_visualizer">🍽️ Philosophers</a></b><br>
+      Visualizer for 🍽️ Philosophers
+    </p>
+  </div>
+
+
 </div>
 
 
