@@ -4,8 +4,6 @@
 - 🌱 Currently studying full-stack development at 42 Berlin
 - 💬 I love exploring how design, logic, and systems come together in code
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/dmitrijslasko) [Instagram](https://www.instagram.com/dimilasko)
-<!--
-- ⭐ Check out these projects of mine I'm proud of:
 
 ### ⭐ Featured projects
 
