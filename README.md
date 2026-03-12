@@ -39,7 +39,9 @@ Multithreading and synchronization using mutexes,<br> written in C.
 </td>
 
 <td align="center">
-
+<a href="https://github.com/dmitrijslasko/42_philosophers_tester">
+<img src="https://raw.githubusercontent.com/dmitrijslasko/42-assets/ae13cf258a837711ebdd9601ef5d3357da805784/philosophers-tester.jpg" width="100%">
+  
 **[🤖 Philosophers Tester](https://github.com/dmitrijslasko/42_philosophers_tester)**  
 Simple shell-based tester for the 42 Philosophers project.
 
