@@ -61,7 +61,7 @@ Visualizer written in C + Raylib.
 <a href="https://github.com/dmitrijslasko/42_webserv">
   
 **[HTTP1.0 webserver](https://github.com/dmitrijslasko/42_webserv)** 
-HTTP1.0 webserver, writen in C++.
+HTTP1.0 webserver,<br>written in C++.
 
 </td>
 </tr>
