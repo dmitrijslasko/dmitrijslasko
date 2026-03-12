@@ -49,7 +49,7 @@ Simple shell-based tester for the 42 Philosophers project; 30+ existing testing 
 </tr>
 
 <tr>
-<td align="center" width="50%" height="100" valign="top" border="0">
+<td align="center" width="50%" valign="top" border="0">
 <a href="https://github.com/dmitrijslasko/42_philosophers_visualizer">
   
 **[Visualizer for 🍽️ Philosophers](https://github.com/dmitrijslasko/42_philosophers_visualizer)**  
