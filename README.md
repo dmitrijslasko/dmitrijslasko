@@ -44,9 +44,12 @@ Multithreading and synchronization using mutexes,<br> written in C.
   
 **[🤖 Philosophers Tester](https://github.com/dmitrijslasko/42_philosophers_tester)**  
 Simple shell-based tester for the 42 Philosophers project.
-
-<br><br>
-
+</td>
+</tr>
+<tr>
+<td align="center">
+<a href="https://github.com/dmitrijslasko/42_philosophers_visualizer">
+  
 **[Visualizer for 🍽️ Philosophers](https://github.com/dmitrijslasko/42_philosophers_visualizer)**  
 Visualizer written in C + Raylib.
 
