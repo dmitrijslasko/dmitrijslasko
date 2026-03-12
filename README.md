@@ -56,6 +56,14 @@ Simple shell-based tester for the 42 Philosophers project; 30+ existing testing 
 Visualizer written in C + Raylib.
 
 </td>
+
+<td align="center" width="50%" valign="top" border="0">
+<a href="https://github.com/dmitrijslasko/42_webserv">
+  
+**[HTTP1.0 webserver](https://github.com/dmitrijslasko/42_webserv)** 
+HTTP1.0 webserver, writen in C++.
+
+</td>
 </tr>
 </table>
 
