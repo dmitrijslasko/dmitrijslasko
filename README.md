@@ -10,35 +10,42 @@
 <table>
 <tr>
 <td align="center" width="50%" valign="top" border="0">
+<a href="https://github.com/dmitrijslasko/42_webserv">
+<img src="https://github.com/dmitrijslasko/42_webserv/blob/af42a62cde8248d7cfaa32c6f4b8263d6f0772da/schema/demo1.png" width="100%">
+  
+**[HTTP1.0 webserver](https://github.com/dmitrijslasko/42_webserv)** 
+HTTP1.0 webserver,<br>written in C++.
+
+</td>
+
+<td align="center" width="50%" valign="top" border="0">
 <a href="https://github.com/dmitrijslasko/42_cub3D_advanced">
 <img src="https://raw.githubusercontent.com/dmitrijslasko/42_cub3D_advanced/b88a5839d5d6de2975abdb8bf7c9edc259742182/assets/sushi-ninja-3d.gif" width="100%">
-</a>
   
 **[🍣 Sushi Ninja / cub3D](https://github.com/dmitrijslasko/42_cub3D_advanced)**  
 Raycaster game engine inspired by Wolfenstein 3D,<br> written in C.
 </td>
 
+</tr>
+<tr>
 <td align="center" width="50%" valign="top" border="0">
 <a href="https://github.com/dmitrijslasko/42_fdf">
 <img src="https://github.com/dmitrijslasko/42_fdf/blob/fd322b00ea8791a5b8635644035ba1980ca58579/assets/fdf3.gif" width="100%">
-</a>
 
 **[🌐 FDF](https://github.com/dmitrijslasko/42_fdf)**  
 3D wireframe visualizer for 2D coordinate data,<br> written in C.
 </td>
-</tr>
 
-<tr>
 <td align="center" width="50%" valign="top" border="0">
 <a href="https://github.com/dmitrijslasko/42_philosophers">
-<img src="https://github.com/dmitrijslasko/42_philosophers/blob/4626272959010af69ddddc1df32985615a148408/assets/github-philosophers-3.gif" width="100%">
-</a>
+<img src="https://github.com/dmitrijslasko/42_philosophers_visualizer/blob/51d1fc2817a9e098978ad2c63183324fb08b6e58/img/img1.png" width="100%">
   
 **[🍽️ Philosophers](https://github.com/dmitrijslasko/42_philosophers)**  
-Multithreading and synchronization using mutexes,<br> written in C.
+Concurrency problem, solved with multithreading and synchronization using mutexes,<br> written in C.
 
 </td>
-
+</tr>
+<tr>
 <td align="center" width="50%" valign="top" border="0">
 <a href="https://github.com/dmitrijslasko/42_philosophers_tester">
 <img src="https://raw.githubusercontent.com/dmitrijslasko/42-assets/ae13cf258a837711ebdd9601ef5d3357da805784/philosophers-tester.jpg" width="100%">
@@ -46,24 +53,16 @@ Multithreading and synchronization using mutexes,<br> written in C.
 **[🤖 Philosophers Tester](https://github.com/dmitrijslasko/42_philosophers_tester)**  
 Simple shell-based tester for the 42 Philosophers project; 30+ existing testing scenarios.
 </td>
-</tr>
 
-<tr>
 <td align="center" width="50%" valign="top" border="0">
 <a href="https://github.com/dmitrijslasko/42_philosophers_visualizer">
+<img src="https://github.com/dmitrijslasko/42_philosophers/blob/4626272959010af69ddddc1df32985615a148408/assets/github-philosophers-3.gif" width="100%">
   
 **[Visualizer for 🍽️ Philosophers](https://github.com/dmitrijslasko/42_philosophers_visualizer)**  
-Visualizer written in C + Raylib.
+Graphic visualizer for the 42 Philosophers project with IRC via pipes, written in C + Raylib.
 
 </td>
 
-<td align="center" width="50%" valign="top" border="0">
-<a href="https://github.com/dmitrijslasko/42_webserv">
-  
-**[HTTP1.0 webserver](https://github.com/dmitrijslasko/42_webserv)** 
-HTTP1.0 webserver,<br>written in C++.
-
-</td>
 </tr>
 </table>
 
