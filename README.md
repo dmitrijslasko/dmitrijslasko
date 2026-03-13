@@ -11,7 +11,7 @@
 <tr>
 <td align="center" width="50%" valign="top" border="0">
 <a href="https://github.com/dmitrijslasko/42_webserv">
-<img src="https://github.com/dmitrijslasko/42_webserv/blob/af42a62cde8248d7cfaa32c6f4b8263d6f0772da/schema/demo1.png" width="100%">
+<img src="https://github.com/dmitrijslasko/42_webserv/blob/b9c876cac5ee2d59c78c60792a9fd749df6a90a8/demo/demo.gif" width="100%">
   
 **[HTTP1.0 webserver](https://github.com/dmitrijslasko/42_webserv)** 
 HTTP1.0 webserver,<br>written in C++.
