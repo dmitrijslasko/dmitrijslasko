@@ -21,6 +21,14 @@ Raycasting game engine inspired by Wolfenstein 3D, written in C.
 
 ---
 
+## 🐻 Bear Ride: City Cruise – iOS game – published in AppStore
+[![Bear Ride: City Cruise](https://github.com/dmitrijslasko/bear-ride-city-cruise/blob/17e3a2adaa1c4aedcae80c9e9fbf8d5d38919b32/demo/demo1.png)](https://apps.apple.com/us/app/bear-ride-city-cruise/id6758684920)
+
+Bear Ride: City Cruise is a fast-paced infinite reaction runner set in a stylish pixel city.<br>
+Take control of a cycling bear, avoid obstacles, collect bonuses, and survive as long as possible.
+
+---
+
 ## 🌐 FDF
 [![FDF](https://github.com/dmitrijslasko/42_fdf/blob/fd322b00ea8791a5b8635644035ba1980ca58579/assets/fdf3.gif)](https://github.com/dmitrijslasko/42_fdf)
 
