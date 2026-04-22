@@ -10,7 +10,7 @@
 ## 🌐 HTTP/1.0 Web Server
 [![Webserv](https://github.com/dmitrijslasko/42_webserv/blob/b9c876cac5ee2d59c78c60792a9fd749df6a90a8/demo/demo.gif)](https://github.com/dmitrijslasko/42_webserv)
 
-A lightweight HTTP/1.0 web server written in C++ that handles TCP connections, parses HTTP requests, and serves static files.
+A lightweight HTTP/1.0 web server written in C++ that handles TCP connections, parses HTTP requests, and serves static and dynamic files via CGI (Python, CGI).
 
 ---
 
