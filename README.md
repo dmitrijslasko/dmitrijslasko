@@ -3,7 +3,7 @@
 - 👋 I’m Dima — after years of building and scaling e-commerce products, I’m now shifting my focus to software engineering.
 - 🌱 Currently studying full-stack development at 42 Berlin
 - 💬 I love exploring how design, logic, and systems come together in code
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/dmitrijslasko) [Instagram](https://www.instagram.com/dimilasko)
+- 📫 Say hi: [LinkedIn](https://www.linkedin.com/in/dmitrijslasko) [Instagram](https://www.instagram.com/dimilasko)
 
 ### ⭐ Featured projects
 
