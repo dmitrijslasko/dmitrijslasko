@@ -17,7 +17,7 @@ A lightweight HTTP/1.0 web server written in C++ that handles TCP connections, p
 ## 🍣 Sushi Ninja / cub3D
 [![Cub3D](https://raw.githubusercontent.com/dmitrijslasko/42_cub3D_advanced/b88a5839d5d6de2975abdb8bf7c9edc259742182/assets/sushi-ninja-3d.gif)](https://github.com/dmitrijslasko/42_cub3D_advanced)
 
-Raycasting game engine inspired by Wolfenstein 3D, written in C.
+Raycasting game engine inspired by Wolfenstein 3D, written in C. Uses School 42 minilibx library.
 
 ---
 
@@ -32,7 +32,7 @@ Take control of a cycling bear, avoid obstacles, collect bonuses, and survive as
 ## 🌐 FDF
 [![FDF](https://github.com/dmitrijslasko/42_fdf/blob/fd322b00ea8791a5b8635644035ba1980ca58579/assets/fdf3.gif)](https://github.com/dmitrijslasko/42_fdf)
 
-3D wireframe visualizer for 2D coordinate data, written in C.
+3D wireframe visualizer for 2D coordinate data, written in C. Uses School 42 minilibx library.
 
 ---
 
